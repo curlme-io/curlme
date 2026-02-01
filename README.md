@@ -8,7 +8,7 @@ This repository is used to:
 - discuss feature ideas
 
 If you're looking for the CLI:
-→ https://github.com/curlme-io/cli
+→ https://github.com/curlme-io/curlme-cli
 
 Docs:
 → https://docs.curlme.io
