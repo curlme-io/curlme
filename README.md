@@ -2,13 +2,44 @@
 
 curlme is a terminal-first HTTP request debugging tool.
 
-This repository is used to:
-- track bugs
-- collect feedback
-- discuss feature ideas
+This repository is our **primary feedback hub**.
+
+## The Feedback Principle
+
+**Lower the effort to give feedback than to ignore the problem.**
+
+We believe that if feedback requires complex forms, account creation (beyond GitHub), or long explanations, we won't get it. We want to hear from you as easily as possible.
+
+## How to give feedback
+
+1. **GitHub Issues** (Primary): Use this for bugs, feature requests, and general questions.
+2. **CLI**: Run `curlme feedback` to be taken directly to the issue page with your environment info pre-filled.
+3. **Dashboard**: Use the "Feedback" links in the footer.
+
+## When to use Email
+
+Use email **only** for the following:
+- Billing or subscription issues
+- Account access problems
+- Private security concerns
+
+Email: [support@curlme.io](mailto:support@curlme.io)
+
+Everything else belongs in GitHub Issues.
+
+---
+
+### A Note on Responses
+
+This project is built for builders, by builders. To keep the project sustainable:
+- We do not owe immediate responses.
+- We do not need to fix everything.
+- "Thanks, noted" is a valid reply.
+- We will close issues that don't fit the vision.
 
 If you're looking for the CLI:
-→ https://github.com/curlme-io/curlme-cli
+→ [github.com/curlme-io/cli](https://github.com/curlme-io/cli)
 
 Docs:
-→ https://docs.curlme.io
+→ [docs.curlme.io](https://docs.curlme.io)
+
